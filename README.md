@@ -9,14 +9,6 @@
   	<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/robiot/XClicker" /></a>
 </p>
 
----
-<h4 align="center">Oh hey, I'm on Twitter too if you'd like to follow more about what I'm up to. Hopefully I'll see you there! 😊</h4>
-<p align="center">
-	<a href="https://twitter.com/robiot" target="_blank">
-		https://twitter.com/robiot
-	</a>
-</p>
-
 ## What is XClicker?
 XClicker is an open-source, easy to use, feature-rich, **blazing fast** Autoclicker for linux desktops using x11.
 
